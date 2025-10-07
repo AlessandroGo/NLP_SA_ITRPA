@@ -2,7 +2,7 @@
     "model": "Naive_Bayes_BALANCED",
     "train_accuracy": 0.8205205811138014,
     "test_accuracy": 0.6659604519774012,
-    "train_time_sec": 0.009910345077514648,
+    "train_time_sec": 0.010997295379638672,
     "classification_report": {
         "negative": {
             "precision": 0.6583725622057834,

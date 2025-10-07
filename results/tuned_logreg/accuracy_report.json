@@ -1,8 +1,8 @@
 {
-    "model": "Logistic_Regression_BALANCED",
+    "model": "tuned_logreg",
     "train_accuracy": 0.8506860371267151,
     "test_accuracy": 0.6605461393596986,
-    "train_time_sec": 0.23697471618652344,
+    "train_time_sec": 1.1871631145477295,
     "classification_report": {
         "negative": {
             "precision": 0.6353482260183968,
