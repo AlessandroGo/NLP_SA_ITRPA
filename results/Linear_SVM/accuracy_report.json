@@ -1,0 +1,39 @@
+{
+    "model": "Linear SVM",
+    "train_accuracy": 0.9617352302193567,
+    "test_accuracy": 0.9199215099981312,
+    "train_time_sec": 2.064772605895996,
+    "classification_report": {
+        "negative": {
+            "precision": 0.6131045241809673,
+            "recall": 0.4163135593220339,
+            "f1-score": 0.49589905362776027,
+            "support": 944.0
+        },
+        "neutral": {
+            "precision": 0.3115727002967359,
+            "recall": 0.10355029585798817,
+            "f1-score": 0.15544041450777202,
+            "support": 1014.0
+        },
+        "positive": {
+            "precision": 0.9395868011358073,
+            "recall": 0.9869381878021187,
+            "f1-score": 0.9626805778491172,
+            "support": 19446.0
+        },
+        "accuracy": 0.9199215099981312,
+        "macro avg": {
+            "precision": 0.6214213418711702,
+            "recall": 0.5022673476607137,
+            "f1-score": 0.5380066819948831,
+            "support": 21404.0
+        },
+        "weighted avg": {
+            "precision": 0.8954359149605041,
+            "recall": 0.9199215099981312,
+            "f1-score": 0.9038512335913576,
+            "support": 21404.0
+        }
+    }
+}

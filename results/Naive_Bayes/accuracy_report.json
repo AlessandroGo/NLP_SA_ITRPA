@@ -1,0 +1,39 @@
+{
+    "model": "Naive Bayes",
+    "train_accuracy": 0.9174667694535941,
+    "test_accuracy": 0.914221640814801,
+    "train_time_sec": 0.02194380760192871,
+    "classification_report": {
+        "negative": {
+            "precision": 0.7857142857142857,
+            "recall": 0.13983050847457626,
+            "f1-score": 0.23741007194244604,
+            "support": 944.0
+        },
+        "neutral": {
+            "precision": 0.3333333333333333,
+            "recall": 0.0029585798816568047,
+            "f1-score": 0.005865102639296188,
+            "support": 1014.0
+        },
+        "positive": {
+            "precision": 0.9154849955245677,
+            "recall": 0.9993314820528644,
+            "f1-score": 0.955572492808497,
+            "support": 19446.0
+        },
+        "accuracy": 0.914221640814801,
+        "macro avg": {
+            "precision": 0.678177538190729,
+            "recall": 0.3807068568030325,
+            "f1-score": 0.3996158891300798,
+            "support": 21404.0
+        },
+        "weighted avg": {
+            "precision": 0.8821825597404704,
+            "recall": 0.914221640814801,
+            "f1-score": 0.8789069808047071,
+            "support": 21404.0
+        }
+    }
+}
