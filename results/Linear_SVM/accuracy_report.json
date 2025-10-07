@@ -2,7 +2,7 @@
     "model": "Linear SVM",
     "train_accuracy": 0.9617352302193567,
     "test_accuracy": 0.9199215099981312,
-    "train_time_sec": 2.064772605895996,
+    "train_time_sec": 1.9393868446350098,
     "classification_report": {
         "negative": {
             "precision": 0.6131045241809673,

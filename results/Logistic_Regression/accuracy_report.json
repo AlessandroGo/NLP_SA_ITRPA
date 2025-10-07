@@ -2,7 +2,7 @@
     "model": "Logistic Regression",
     "train_accuracy": 0.9369262036582802,
     "test_accuracy": 0.9220706410016819,
-    "train_time_sec": 1.1212742328643799,
+    "train_time_sec": 1.1918973922729492,
     "classification_report": {
         "negative": {
             "precision": 0.6719681908548708,

@@ -1,0 +1,39 @@
+{
+    "model": "balanced_tuning_logreg_ros",
+    "train_accuracy": 0.909500782582288,
+    "test_accuracy": 0.8476920201831434,
+    "train_time_sec": 6.852488279342651,
+    "classification_report": {
+        "negative": {
+            "precision": 0.36845683208701563,
+            "recall": 0.5741525423728814,
+            "f1-score": 0.44886128364389233,
+            "support": 944.0
+        },
+        "neutral": {
+            "precision": 0.18055555555555555,
+            "recall": 0.41025641025641024,
+            "f1-score": 0.25075346594333936,
+            "support": 1014.0
+        },
+        "positive": {
+            "precision": 0.9748709512734699,
+            "recall": 0.8837807261133395,
+            "f1-score": 0.9270937289278489,
+            "support": 19446.0
+        },
+        "accuracy": 0.8476920201831434,
+        "macro avg": {
+            "precision": 0.5079611129720137,
+            "recall": 0.6227298929142103,
+            "f1-score": 0.5422361595050269,
+            "support": 21404.0
+        },
+        "weighted avg": {
+            "precision": 0.9104955663094455,
+            "recall": 0.8476920201831434,
+            "f1-score": 0.8739606484282064,
+            "support": 21404.0
+        }
+    }
+}
