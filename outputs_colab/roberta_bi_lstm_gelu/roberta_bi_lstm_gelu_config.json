@@ -1,0 +1,19 @@
+{
+    "model_name": "roberta-base",
+    "activation": "gelu",
+    "hidden_size": 320,
+    "dropout": 0.5,
+    "fine_tune_base": true,
+    "num_classes": 3,
+    "max_len": 160,
+    "batch_size": 128,
+    "epochs": 3,
+    "optimizer": "adamw",
+    "loss_fn": "crossentropy",
+    "lr_base": 2e-05,
+    "lr_lstm": 2e-05,
+    "lr_classifier": 2e-05,
+    "weight_decay_base": 0.01,
+    "weight_decay_others": 0.0,
+    "device": "cuda"
+}
