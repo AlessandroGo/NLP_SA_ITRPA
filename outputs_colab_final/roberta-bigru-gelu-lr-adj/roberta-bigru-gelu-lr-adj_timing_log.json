@@ -1,0 +1,28 @@
+{
+    "timestamp": "2025-10-27 22:05:13",
+    "total_time_sec": 3807.66,
+    "total_time_min": 63.46,
+    "avg_epoch_time_sec": 951.91,
+    "epoch_times_sec": [
+        950.32,
+        950.0,
+        953.14,
+        954.21
+    ],
+    "environment": {
+        "python_version": "3.12.12",
+        "torch_version": "2.8.0+cu126",
+        "device": "cuda",
+        "gpu_info": {
+            "gpu_name": "NVIDIA L4",
+            "total_vram_gb": 23.8,
+            "allocated_vram_gb": 6.09,
+            "reserved_vram_gb": 22.32,
+            "cuda_version": "12.6"
+        },
+        "ram_used_gb": 6.83,
+        "ram_total_gb": 56.86,
+        "disk_used_gb": 44.19,
+        "disk_total_gb": 253.06
+    }
+}

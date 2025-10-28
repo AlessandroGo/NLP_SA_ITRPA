@@ -1,0 +1,21 @@
+{
+    "model_name": "roberta-lstm-gelu-lr-adj",
+    "base_model_name": "roberta-base",
+    "activation": "gelu",
+    "hidden_size": 320,
+    "dropout": 0.5,
+    "fine_tune_base": true,
+    "num_classes": 3,
+    "max_len": 160,
+    "batch_size": 128,
+    "epochs": 2,
+    "optimizer": "adamw",
+    "loss_fn": "crossentropy",
+    "lr_base": 2e-05,
+    "lr_lstm": 0.0001,
+    "lr_classifier": 0.001,
+    "weight_decay_base": 0.035,
+    "weight_decay_others": 0.01,
+    "BASE_DIR": "/content/drive/MyDrive/ITRPA_PROJ",
+    "device": "cuda"
+}
